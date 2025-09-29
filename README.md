@@ -2,7 +2,7 @@
 
 ## Workflow Demo (6× speed)
 
-![Codex Terminal Phone workflow demo (6× speed)](ScreenRecording_09-28-2025_21-14-54_1_speed6.gif)
+<img src="ScreenRecording_09-28-2025_21-14-54_1_speed6.gif" alt="Codex Terminal Phone workflow demo (6× speed)" width="320">
 
 [Download the full video with audio](ScreenRecording_09-28-2025%2021-14-54_1_speed6.mp4).
 
