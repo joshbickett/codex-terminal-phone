@@ -2,9 +2,9 @@
 
 ## Workflow Demo (6× speed)
 
-<video src="https://github.com/joshbickett/codex-terminal-phone/raw/main/ScreenRecording_09-28-2025%2021-14-54_1_speed6.mp4" controls title="Codex Terminal Phone workflow demo"></video>
+![Codex Terminal Phone workflow demo (6× speed)](ScreenRecording_09-28-2025_21-14-54_1_speed6.gif)
 
-If the embed does not load, [download the video directly](ScreenRecording_09-28-2025%2021-14-54_1_speed6.mp4).
+[Download the full video with audio](ScreenRecording_09-28-2025%2021-14-54_1_speed6.mp4).
 
 ## Setup Steps
 
