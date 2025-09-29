@@ -22,7 +22,7 @@ I love Codex CLI. Recently, I wondered if I could run it from my phone. There is
     <p>Install Termius on iOS and sign in with your Termius account.</p>
   </li>
   <li>
-    <p>Generate an SSH key pair in Termius (<code>Keychain</code> → <code>+</code> → <code>New Key</code> → <code>RSA 4096</code>), then copy the public key.</p>
+    <p>Generate an SSH key pair in Termius (<code>Keychain</code> → <code>+</code> → <code>New Key</code> → <code>ED25519</code>) to create an <code>ssh-ed25519</code> key, then copy the public key.</p>
   </li>
   <li>
     <p>In the Google Cloud console, open your VM, click <code>Edit</code>, add the Termius public key under <code>SSH Keys</code>, and save.</p>
