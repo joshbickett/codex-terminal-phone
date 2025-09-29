@@ -43,3 +43,7 @@ I love Codex CLI. Recently, I wondered if I could run it from my phone. There is
     <p>Happy coding!</p>
   </li>
 </ol>
+
+<p align="center">
+  Follow me on Twitter <a href="https://x.com/josh_bickett">@josh_bickett</a>. If you wish this was easier, please DM me on Twitter and tell me. This will motivate me to make it better :)
+</p>
