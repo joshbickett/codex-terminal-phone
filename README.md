@@ -1,4 +1,12 @@
-# Codex Terminal Phone Setup
+# Running Codex in a Terminal From Your Phone
+
+## Workflow Demo (4× speed)
+
+<video src="ScreenRecording_09-28-2025 21-14-54_1_4x.mp4" controls title="Codex Terminal Phone workflow demo"></video>
+
+If GitHub does not auto-play the video inline, [download it directly](ScreenRecording_09-28-2025%2021-14-54_1_4x.mp4).
+
+## Setup Steps
 
 - Launch a free GCP `e2-micro` Compute Engine VM and grab its external IP.
 - Install Termius on iOS, add the VM as a host (username, SSH key, IP), and save.
