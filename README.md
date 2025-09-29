@@ -19,7 +19,16 @@ I love Codex CLI. Recently, I wondered if I could run it from my phone. There is
     </p>
   </li>
   <li>
-    <p>Install Termius on iOS, add the VM as a host (username, SSH key, IP), and save.</p>
+    <p>Install Termius on iOS and sign in with your Termius account.</p>
+  </li>
+  <li>
+    <p>Generate an SSH key pair in Termius (<code>Keychain</code> → <code>+</code> → <code>New Key</code> → <code>RSA 4096</code>), then copy the public key.</p>
+  </li>
+  <li>
+    <p>In the Google Cloud console, open your VM, click <code>Edit</code>, add the Termius public key under <code>SSH Keys</code>, and save.</p>
+  </li>
+  <li>
+    <p>Add the VM as a host in Termius, reuse the username from your key, paste the external IP, and attach the saved key.</p>
     <p align="center">
       <img src="termius.png" alt="Configuring the VM host in Termius" width="420">
     </p>
