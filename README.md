@@ -1,10 +1,10 @@
 # Running Codex in a Terminal From Your Phone
 
-## Workflow Demo (4× speed)
+## Workflow Demo (6× speed)
 
-<video src="ScreenRecording_09-28-2025 21-14-54_1_4x.mp4" controls title="Codex Terminal Phone workflow demo"></video>
+<video src="ScreenRecording_09-28-2025 21-14-54_1_speed6.mp4" controls autoplay muted loop title="Codex Terminal Phone workflow demo"></video>
 
-If GitHub does not auto-play the video inline, [download it directly](ScreenRecording_09-28-2025%2021-14-54_1_4x.mp4).
+If GitHub does not auto-play the video inline, [download it directly](ScreenRecording_09-28-2025%2021-14-54_1_speed6.mp4).
 
 ## Setup Steps
 
